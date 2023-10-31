@@ -115,7 +115,7 @@ class App {
     L.tileLayer(
       // 'http://wprd04.is.autonavi.com/appmaptile?lang=zh_cn&size=1&style=7&x={x}&y={y}&z={z}',
       // 'http://gac-geo.googlecnapps.cn/maps/vt?lyrs=m&x={x}&y={y}&z={z}',
-      'https://webrd04.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=7&x={x}&y={y}&z={z}',
+      'https://webrd04.is.autonavi.com/appmaptile?size=1&scale=1&style=7&x={x}&y={y}&z={z}',
       {
         attribution:
           '&copy; <a href="http://www.google.com/maps/vt">Google地图（火星坐标）</a> contributors',
